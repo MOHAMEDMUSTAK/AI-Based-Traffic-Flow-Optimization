@@ -202,17 +202,11 @@ python metrics.py
 
 ## Contributors
 
-| Name               | Register Number    |
-|--------------------|--------------------|
-| Mohamed Mustak M   | RA2311026010581    |
-| Charukesh J        | RA2311026010579    |
-| Surya Narayana     | RA2311026010614    |
-
-**Institution:** SRM Institute of Science and Technology, Kattankulathur  
-**Department:** Computational Intelligence  
-**Programme:** B.Tech CSE (AIML)  
-**Course:** 21CSC406J – Neural Networks and Deep Learning
-
+| Name               |
+|--------------------|
+| Mohamed Mustak M   |
+| Charukesh J        |
+| Surya Narayana     |
 ---
 
 ## Research Relevance
